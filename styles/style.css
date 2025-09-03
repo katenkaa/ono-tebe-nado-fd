@@ -118,7 +118,6 @@ body {
   width: 1000px;
   padding-top: 12px;
   color: #fff;
-  color: #fff;
   font-weight: 400;
   font-size: 22px;
   line-height: 127%;
@@ -130,6 +129,7 @@ body {
 }
 
 .bet-button {
+  height: 51px;
   position: relative;
   bottom: 1px;
   border-style: groove;
